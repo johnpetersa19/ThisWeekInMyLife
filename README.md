@@ -4,6 +4,8 @@
 
 A modern kanban-style planner designed to help you organize your week efficiently. Also known as *ThisWeekInMyLife* on Flathub, Schedule provides an intuitive interface for managing tasks and notes across customizable columns.
 
+<a href='https://flathub.org/apps/io.github.zhrexl.thisweekinmylife'><img width='240' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.png'/></a>
+
 ## Features
 
 - **Drag & Drop Interface**: Seamlessly move tasks between columns with intuitive drag-and-drop functionality
